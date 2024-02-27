@@ -1,0 +1,8 @@
+/* HomePage.css */
+.home-page {
+  margin-left: 20%;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column; /* make the children (the post links) stack vertically */
+}

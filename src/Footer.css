@@ -1,0 +1,12 @@
+/* Footer.css */
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0; /* position the footer at the bottom of the page */
+  left: 0;
+  padding: 10px;
+  z-index: 100;
+}

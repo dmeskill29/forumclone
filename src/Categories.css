@@ -1,0 +1,10 @@
+/* Categories.css */
+.categories {
+  position: fixed;
+  left: 0; /* add this line */
+  width: 20%;
+  height: 100%;
+  padding: 10px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}

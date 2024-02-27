@@ -1,0 +1,12 @@
+/* Header.css */
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed; /* make the header fixed at the top of the page */
+  width: 100%; /* stretch the header to the full width of the page */
+  top: 0; /* position the header at the top of the page */
+  left: 0;
+  padding: 10px;
+  z-index: 100; /* make the header appear above other elements */
+}
